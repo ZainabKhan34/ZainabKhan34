@@ -12,7 +12,6 @@ I enjoy applying mathematical thinking to real-world AI problems and building pr
 * 👩‍🏫 Python Instructor at **iCodeGuru**
 * 🏆 Competitive coding & machine learning enthusiast
 * 🌍 Participant in international hackathons and ML competitions
-* 📊 **150+ LeetCode problems solved**
 * 🚀 Currently exploring **Agentic AI, LLM applications, and advanced ML systems**
 
 ---
