@@ -263,18 +263,6 @@ I'm interested in opportunities involving:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZainabKhan34&show_icons=true&theme=tokyonight&hide_border=true" alt="Zainab's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabKhan34&theme=tokyonight&hide_border=true" alt="Zainab's GitHub Streak" />
-</p>
-
----
-
 # 🔗 Connect With Me
 
 <p align="left">
