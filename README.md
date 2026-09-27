@@ -209,7 +209,6 @@ I particularly enjoy connecting mathematical concepts with **machine learning al
 **Bachelor of Science in Mathematics**
 **Feb 2022 – Mar 2026**
 
-**CGPA:** 3.4 / 4.00
 
 ---
 
